@@ -1,2 +1,2 @@
 # First-website-
-All about cats 
+This is my first website where I give basic information on cats
